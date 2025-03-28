@@ -3,7 +3,7 @@ import ConfigNotFoundError from '@/errors/types/config-not-found';
 
 const defaultDomain = 'mp4us.com';
 
-const allowedDomains = new Set(['domp4.cc', 'mp4us.com', 'wemp4.com', 'dbmp4.com']);
+const allowedDomains = new Set(['domp4.cc', 'mp4us.com', 'wemp4.com', 'dbmp4.com', 'xlmp4.cc']);
 
 /**
  * trackers from https://www.domp4.cc/Style/2020/js/base.js?v=2
